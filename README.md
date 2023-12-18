@@ -12,3 +12,4 @@
 ![Скриншот vm2:](https://github.com/hokum83/ha-01/blob/main/img/2-2.png)
 - Конфигурационный файл keepalived: [keepalived.conf](https://github.com/hokum83/ha-01/blob/main/keepalived.conf)
 - Скрипт проверки: [check.sh](https://github.com/hokum83/ha-01/blob/main/check.sh)
+
